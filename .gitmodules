@@ -1,8 +1,8 @@
 [submodule "Repo4"]
 	path = Repo4
 	url = ../Repo4.git
-	branch = Relase/2.0/Mainline
+	branch = Release/2.0/Mainline
 [submodule "Repo5"]
 	path = Repo5
 	url = ../Repo5.git
-	branch = Relase/2.0/Mainline
+	branch = Release/2.0/Mainline
