@@ -1,0 +1,8 @@
+[submodule "Repo4"]
+	path = Repo4
+	url = ../Repo4.git
+	branch = Release/2.0/HF1
+[submodule "Repo5"]
+	path = Repo5
+	url = ../Repo5.git
+	branch = Release/2.0/HF1
